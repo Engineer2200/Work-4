@@ -1,16 +1,21 @@
-﻿Console.WriteLine("Введите координату X точки A: ");
- int Ax = Convert.ToInt32(Console.ReadeLine());
-Console.WriteLine("Введите координату Y точки A: ");
-int Ay = Convert.ToInt32(Console.ReadeLine());
-Console.WriteLine("Введите координату Z точки A: ");
-int Az = Convert.ToInt32(Console.ReadeLine());
+﻿Console.WriteLine("Введите координаты точки x от A");
+int Ax = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите координату X точки B: ");
-int Bx = Convert.ToInt32(Console.ReadeLine());
-Console.WriteLine("Введите координату Y точки B: ");
-int Bx = Convert.ToInt32(Console.ReadeLine());
-Console.WriteLine("Введите координату Z точки B: ");
-int Bx = Convert.ToInt32(Console.ReadeLine());
+Console.WriteLine("Введите координаты точки y от A");
+int Ay = Convert.ToInt32(Console.ReadLine());
 
-double distance = Math.Sqrt(Math.Pow(Bx-Ax,2)+Math.Pow(By-Ay,2)+Math.Pow(Bz-Az,2));
-Console.WriteLine(distance);
+Console.WriteLine("Введите координаты точки z от A");
+int Az = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Введите координаты точки x от B");
+int Bx = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Введите координаты точки y от B");
+int By = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Введите координаты точки z от B");
+int Bz = Convert.ToInt32(Console.ReadLine());
+
+double length = Math.Sqrt(Math.Pow(Bx - Ax, 2) + Math.Pow(By - Ay,2) + Math.Pow(Bz - Az,2));
+
+Console.WriteLine(length);
