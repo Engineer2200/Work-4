@@ -1,0 +1,15 @@
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+X:\EEE3\Task23\bin\Debug\net6.0\Task23.exe
+X:\EEE3\Task23\bin\Debug\net6.0\Task23.deps.json
+X:\EEE3\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+X:\EEE3\Task23\bin\Debug\net6.0\Task23.dll
+X:\EEE3\Task23\bin\Debug\net6.0\Task23.pdb
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.dll
+X:\EEE3\Task23\obj\Debug\net6.0\refint\Task23.dll
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.pdb
+X:\EEE3\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+X:\EEE3\Task23\obj\Debug\net6.0\ref\Task23.dll
